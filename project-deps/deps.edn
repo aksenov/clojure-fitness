@@ -1,0 +1,11 @@
+{:deps
+ {
+  ;;org.clojure/clojure {:mvn/version "1.10.0"}
+  ;org.clojure/clojure {::git/url "https://github.com/clojure/clojure.git"} 
+  org.clojure/core.async {:mvn/version "0.4.490"}}
+  ; github-clojure/core.async 
+  ; {:git/url "https://github.com/clojure/core.async.git"
+  ;  :sha "ecea2539a724a415b15e50f12815b4ab115cfd35"}
+    ;{:git/url "https://github.com/clojure/core.async"}
+  }
+ }
