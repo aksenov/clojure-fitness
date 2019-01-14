@@ -1,11 +1,8 @@
 {:deps
  {
-  ;;org.clojure/clojure {:mvn/version "1.10.0"}
-  ;org.clojure/clojure {::git/url "https://github.com/clojure/clojure.git"} 
-  org.clojure/core.async {:mvn/version "0.4.490"}}
-  ; github-clojure/core.async 
-  ; {:git/url "https://github.com/clojure/core.async.git"
-  ;  :sha "ecea2539a724a415b15e50f12815b4ab115cfd35"}
-    ;{:git/url "https://github.com/clojure/core.async"}
+  org.clojure/clojure {:mvn/version "1.10.0"}
+  github-clojure/core.async 
+  {:git/url "https://github.com/clojure/core.async.git"
+   :sha "594cf3161d6f04b0b34852f42093446ffa7636b9"}
   }
  }
