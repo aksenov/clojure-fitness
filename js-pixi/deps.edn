@@ -1,0 +1,4 @@
+{:deps 
+	{org.clojure/clojurescript {:mvn/version "1.10.439"}
+	 cljsjs/pixi {:mvn/version "4.7.0-0"}}}
+
